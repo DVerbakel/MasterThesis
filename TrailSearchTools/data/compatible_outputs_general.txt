@@ -1,0 +1,8 @@
+The compatible output differences of input difference [2, 0, 1] can be build using the following: 
+
+Offset P:
+[2, 2, 0]
+
+Basis vectors v_i in V: 
+[2, 0, 0]
+[0, 0, 1]
